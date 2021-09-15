@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @simon
+- 👋 Hi, I’m @simonbiennier
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning fullstack development
+- 🌱 I’m currently studying computer science and engineering
 - 💞️ I’m looking to collaborate on a startup project
 - 📫 How to reach me: [biennier.eu](https://biennier.eu) or via dm
 
