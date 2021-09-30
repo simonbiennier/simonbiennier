@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @simonbiennier
+- 👋 Hey, I’m @simonbiennier
 - 👀 I’m interested in coding
 - 🌱 I’m currently studying computer science and engineering
 - 💞️ I’m looking to collaborate on a startup project
